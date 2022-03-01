@@ -5,9 +5,7 @@ h1
 		line-height: 50pt;
 		font-family : Cambria;
 		width: 30%;
-		
 		margin: auto; 
-
 }
 h2 
 {
@@ -16,7 +14,6 @@ h2
 	color: brown;
 }
 .center 
-
 { 
 	text-align: center; 
 }
@@ -28,32 +25,21 @@ p
 }
 body
 {
-		background-color:yellow;
-		color: 
-}
-
-{
-		font-size: 15pt;
-
+		background-color: yellow; 
 }
 ul
-
 {
 	text-align : center; 
 	font-family : sans serif;
 	font-size: 14pt;
 	width: 30%;
 	margin: auto; 
-	
 }
-
 img 
-
 {
 	border-color : black;
 	border-width : medium; 
 	border-style : solid;
 	padding : 0.5% ; 
 	margin : 0.3% ;
-	
 }
